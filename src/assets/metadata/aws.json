@@ -1,8 +1,8 @@
 {
-  "name": "aws",
+  "name": "aws_test",
   "displayName": "AWS test provider",
   "description": "Use the Amazon Web Services (AWS) provider to interact with the many resources supported by AWS.",
-  "icon": "aws",
+  "icon": "aws_test",
   "model": "DefaultModel",
   "url": "https://registry.terraform.io/providers/hashicorp/aws/latest/docs",
   "attributes": [
