@@ -1,6 +1,6 @@
 {
   "name": "aws",
-  "displayName": "AWS provider",
+  "displayName": "AWS test provider",
   "description": "Use the Amazon Web Services (AWS) provider to interact with the many resources supported by AWS.",
   "icon": "aws",
   "model": "DefaultModel",
